@@ -6,6 +6,10 @@ A modern and responsive electric car landing page UI built using **React**.
 This project demonstrates interactive UI elements, animations, and media handling using core React concepts like **useEffect** and **event handling**.
 
 ---
+# Live Demo Link
+ http://localhost:5173/react-ui-project/
+
+ ---
 
 ## 🚗 Project Overview
 
