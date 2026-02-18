@@ -54,7 +54,7 @@ ev-olution-ui/
 │   ├── components
 │   │   ├── Navbar.jsx
 │   │   ├── Hero.jsx
-│   │   └── VideoSection.jsx
+│   │   └── Background.jsx
 │   │
 │   ├── App.jsx
 │   ├── main.jsx
@@ -72,13 +72,13 @@ ev-olution-ui/
 1. Clone the repository
 
 ```
-git clone https://github.com/your-username/ev-olution-ui.git
+git clone https://github.com/Mjunaid65665/react-ui-project.git
 ```
 
 2. Move into the project folder
 
 ```
-cd ev-olution-ui
+cd VITE-PROJECT 1
 ```
 
 3. Install dependencies
