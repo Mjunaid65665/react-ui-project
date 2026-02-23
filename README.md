@@ -7,7 +7,7 @@ This project demonstrates interactive UI elements, animations, and media handlin
 
 ---
 # Live Demo Link
- react-ui-project-suave.vercel.app
+ [react-ui-project-suave.vercel.app](https://react-ui-project-suave.vercel.app)
 
  ---
 
