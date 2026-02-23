@@ -7,7 +7,7 @@ This project demonstrates interactive UI elements, animations, and media handlin
 
 ---
 # Live Demo Link
- http://localhost:5173/react-ui-project/
+ react-ui-project-suave.vercel.app
 
  ---
 
